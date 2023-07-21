@@ -1,10 +1,10 @@
 import React from "react";
-import FavSongsContainer from "./FavSongsContainer";
+import { AiOutlineHeart } from "react-icons/ai";
 
 export default function FavSongsWidget() {
   return (
-    <div>
-      <FavSongsContainer />
-    </div>
+    <button className="FavSongsContainer">
+      <AiOutlineHeart />
+    </button>
   );
 }
