@@ -1,0 +1,15 @@
+.HomeWidget {
+  grid-area: HomeWidget;
+  color: azure;
+  justify-self: center;
+  align-self: center;
+  align-items: center;
+}
+
+.HomeWidget button {
+  font-size: 1.8rem;
+  color: azure;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}

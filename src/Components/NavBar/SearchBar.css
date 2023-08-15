@@ -1,0 +1,5 @@
+.SearchBar{
+    grid-area: SearchBar; 
+    justify-self: center; 
+    align-self: center; 
+}

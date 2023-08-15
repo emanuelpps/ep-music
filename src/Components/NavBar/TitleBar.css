@@ -1,0 +1,16 @@
+.TitleBar{
+    grid-area: TitleBar; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center; 
+    align-self: center; 
+}
+
+.epLogo{
+    width: 65px;
+}
+
+.EpTitle{
+    color: azure;
+}
